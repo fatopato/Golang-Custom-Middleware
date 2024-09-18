@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/fatopato/custom-middlewares/security"
+	"github.com/fatopato/Golang-Custom-Middleware/security"
 	"github.com/gin-gonic/gin"
 )
 

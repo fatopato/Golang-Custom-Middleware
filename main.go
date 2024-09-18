@@ -3,12 +3,12 @@ package main
 import (
 	"net/http"
 
-	"github.com/fatopato/custom-middlewares/middlewares"
-	"github.com/fatopato/custom-middlewares/services"
+	"github.com/fatopato/Golang-Custom-Middleware/middlewares"
+	"github.com/fatopato/Golang-Custom-Middleware/services"
 
-	"github.com/fatopato/custom-middlewares/security"
+	"github.com/fatopato/Golang-Custom-Middleware/security"
 
-	"github.com/fatopato/custom-middlewares/entity"
+	"github.com/fatopato/Golang-Custom-Middleware/entity"
 	"github.com/gin-gonic/gin"
 )
 

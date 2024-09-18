@@ -3,7 +3,7 @@ package services
 import (
 	"errors"
 
-	"github.com/fatopato/custom-middlewares/entity"
+	"github.com/fatopato/Golang-Custom-Middleware/entity"
 )
 
 var users = map[string]entity.User{}

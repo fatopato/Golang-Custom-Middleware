@@ -1,4 +1,4 @@
-module github.com/fatopato/custom-middlewares
+module github.com/fatopato/Golang-Custom-Middleware
 
 go 1.21.1
 
